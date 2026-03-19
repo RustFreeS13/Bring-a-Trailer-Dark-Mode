@@ -5,6 +5,10 @@ You can let your eyes rest.
 
 Installation instructions:
 Either click a bit higher up to the right on Releases or click on the picture below and follow the instructions on the next page.
+
+
+
+
 [<img src="https://github.com/user-attachments/assets/b1b831bd-fee3-43da-b00f-c7b6c7bc7c2d" width="387">](https://github.com/RustFreeS13/Bring-a-Trailer-Dark-Mode/releases/tag/bringatrailer)
 
 
