@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "BaT Dark Mode by RustFreeS13",
+  "version": "1.1",
+  "description": "Clean dark mode for Bring a Trailer",
+  "content_scripts": [
+    {
+      "matches": ["https://bringatrailer.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
