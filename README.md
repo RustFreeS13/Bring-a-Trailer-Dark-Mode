@@ -3,6 +3,8 @@ You can let your eyes rest.
 
 <img width="2555" height="1279" alt="BatDarkMode" src="https://github.com/user-attachments/assets/7ebd4fb7-8ddb-47ef-8d7e-b399d9472ea3" />
 
+<img width="387" height="157" alt="image" src="https://github.com/user-attachments/assets/b1b831bd-fee3-43da-b00f-c7b6c7bc7c2d" />
+
 Installation instructions:
 1. Download this repo as ZIP
 2. Extract it
