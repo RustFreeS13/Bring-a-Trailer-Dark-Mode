@@ -3,15 +3,11 @@ You can let your eyes rest.
 
 <img width="2555" height="1279" alt="BatDarkMode" src="https://github.com/user-attachments/assets/7ebd4fb7-8ddb-47ef-8d7e-b399d9472ea3" />
 
+Installation instructions:
+Either click a bit higher up to the right on Releases or click on the picture below and follow the instructions on the next page.
 [<img src="https://github.com/user-attachments/assets/b1b831bd-fee3-43da-b00f-c7b6c7bc7c2d" width="387">](https://github.com/RustFreeS13/Bring-a-Trailer-Dark-Mode/releases/tag/bringatrailer)
 
-Installation instructions:
-1. Download this repo as ZIP
-2. Extract it
-3. Go to chrome://extensions/
-4. Enable Developer Mode
-5. Click "Load unpacked"
-6. Select the extracted folder
+
 
 <img width="2553" height="1227" alt="DenWerks" src="https://github.com/user-attachments/assets/28f25d3f-6e4b-4f31-969e-4dc392926c23" />
 
